@@ -146,7 +146,7 @@ function App() {
       </form>
       <footer>
         <p className='read-the-docs'>
-          Criado com amor, por Thabata Cristini - Maratona Quero ser DEV.
+          Criado com amor, por Thabata Cristini na Maratona Quero ser DEV.
         </p>
       </footer>
 
